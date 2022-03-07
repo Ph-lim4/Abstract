@@ -3,5 +3,5 @@
 ### POO:
  - Paradigma: Modelo, exemplo a ser seguido
  - Programação: Desenvolvimento de uma aplicação
- - Orientada: aquilo que é regido, segue uma orientação
+ - Orientada: Aquilo que é regido, segue uma orientação
  - Objeto: Um moldeque representa uma determinada classe
